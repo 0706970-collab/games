@@ -2,16 +2,16 @@
 	{
 	  "name": "Retro Bowl",
 	  "game_url": "https://hfmanor.com/retro-bowl",
-	  "game_image_icon": "https://hfmanor.com/image/retro-bowl",
+	  "game_image_icon": "https://raccziszy.github.io/retrobowl/",
 	  "game-id": "retro-bowl",
-	  "iframe": " <iframe width=\"100\" width=\"100\" src=\"https://hfmanor.com/retro-bowl\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"100\" width=\"100\" src=\"https://raccziszy.github.io/retrobowl/" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	  "name": "Subway Surfers",
-	  "game_url": "https://hfmanor.com/subway-surfers",
+	  "game_url": "https://jasongamesdev.github.io/subway-surfers/",
 	  "game_image_icon": "https://hfmanor.com/image/subway-surfers",
 	  "game-id": "subway-surfers",
-	  "iframe": " <iframe width=\"100\" width=\"100\" src=\"https://hfmanor.com/subway-surfers\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"100\" width=\"100\" src=\"https://jasongamesdev.github.io/subway-surfers/" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	  "name": "Basketball Stars",
@@ -50,10 +50,10 @@
 	},
 	{
 	  "name": "Moto X3M",
-	  "game_url": "https://hfmanor.com/moto-X3M",
+	  "game_url": "https://23azostore.github.io/s8/moto-x3m",
 	  "game_image_icon": "https://hfmanor.com/image/moto-X3M",
 	  "game-id": "moto-X3M",
-	  "iframe": " <iframe width=\"100\" width=\"100\" src=\"https://hfmanor.com/moto-X3M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
+	  "iframe": " <iframe width=\"100\" width=\"100\" src=\"https://23azostore.github.io/s8/moto-x3m" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> "
 	},
 	{
 	  "name": "Bitlife",
